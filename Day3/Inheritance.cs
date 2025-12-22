@@ -1,4 +1,7 @@
 ﻿using System;
+/// <summary>
+/// this program is to demonstrate how inhertience works, created a base class Person and inherited the properties to child/derived classes 
+/// </summary>
 
 public class Person
 {
@@ -42,7 +45,10 @@ public class Child : Person
     }
 }
 
-public class Program
+/// <summary>
+/// this is main class in which we have created objects for the classes and accesssing the classes through the objects
+/// </summary>
+public class Inheritence
 {
     public static void Main(string[] args)
     {
