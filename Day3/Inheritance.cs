@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CAP2025.Day4;
+using System;
 /// <summary>
 /// this program is to demonstrate how inhertience works, created a base class Person and inherited the properties to child/derived classes 
 /// </summary>
