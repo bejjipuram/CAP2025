@@ -5,13 +5,13 @@ using System;
 public class Student
 {
     public string Name;
-    public int StudentId;
+    public int Id;
     public string Course;
     public int Marks;
     
     public void DisplayDetails()
     {
-        Console.WriteLine("StudentID: "+StudentId);
+        Console.WriteLine("StudentID: "+Id);
         Console.WriteLine("Name: "+Name);
         Console.WriteLine("Course: "+Course);
         Console.WriteLine("Total Marks: "+Marks);
@@ -38,7 +38,7 @@ public class main
     public static void Main()
     {
         Student student =new Student();
-        student.StudentId=12204083;
+        student.Id=12204083;
         student.Name="Bejjipuram Indra Kumar";
         student.Course="CSE";
         student.Marks=200;
