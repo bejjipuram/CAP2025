@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CAP2025.Day_15
+namespace CAP2025.Day_18
 {
     public class Student
     {

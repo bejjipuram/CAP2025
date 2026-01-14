@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CAP2025.Day_14
+namespace CAP2025.Day_16
 {
     public class Person
     {
