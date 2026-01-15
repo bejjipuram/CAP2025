@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CAP2025.Day_19.FileMan1Main</StartupObject>
+    <StartupObject>CAP2025.Day_20.UserVerification</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
