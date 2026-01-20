@@ -5,17 +5,20 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CAP2025.Day_20.UserVerification</StartupObject>
+    <StartupObject>CAP2025.Day_23_C__8._0Features.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Day 13\**" />
     <Compile Remove="Day 5 Abstract&amp;Inheritance\**" />
+    <EmbeddedResource Remove="Day 13\**" />
     <EmbeddedResource Remove="Day 5 Abstract&amp;Inheritance\**" />
+    <None Remove="Day 13\**" />
     <None Remove="Day 5 Abstract&amp;Inheritance\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Day 13\" />
+    <Folder Include="Day 22 TopBrains\" />
   </ItemGroup>
 
 </Project>
